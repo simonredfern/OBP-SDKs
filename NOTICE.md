@@ -1,0 +1,1 @@
+This SDKS repository is licenced under the Apache License - Copyright 2010-2026 TESOBE GmbH
