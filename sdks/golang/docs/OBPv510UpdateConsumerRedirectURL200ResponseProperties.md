@@ -1,0 +1,240 @@
+# OBPv510UpdateConsumerRedirectURL200ResponseProperties
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**CreatedByUserId** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**AppType** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**Description** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**CreatedByUser** | [**OBPv510UpdateConsumerName200ResponsePropertiesCreatedByUser**](OBPv510UpdateConsumerName200ResponsePropertiesCreatedByUser.md) |  | 
+**Enabled** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**RedirectUrl** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**DeveloperEmail** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**ConsumerId** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**AppName** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**Created** | [**OBPv600UpdateRateLimitsRequestPropertiesFromDate**](OBPv600UpdateRateLimitsRequestPropertiesFromDate.md) |  | 
+
+## Methods
+
+### NewOBPv510UpdateConsumerRedirectURL200ResponseProperties
+
+`func NewOBPv510UpdateConsumerRedirectURL200ResponseProperties(createdByUserId OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, appType OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, description OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, createdByUser OBPv510UpdateConsumerName200ResponsePropertiesCreatedByUser, enabled OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, redirectUrl OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, developerEmail OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, consumerId OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, appName OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, created OBPv600UpdateRateLimitsRequestPropertiesFromDate, ) *OBPv510UpdateConsumerRedirectURL200ResponseProperties`
+
+NewOBPv510UpdateConsumerRedirectURL200ResponseProperties instantiates a new OBPv510UpdateConsumerRedirectURL200ResponseProperties object
+This constructor will assign default values to properties that have it defined,
+and makes sure properties required by API are set, but the set of arguments
+will change when the set of required properties is changed
+
+### NewOBPv510UpdateConsumerRedirectURL200ResponsePropertiesWithDefaults
+
+`func NewOBPv510UpdateConsumerRedirectURL200ResponsePropertiesWithDefaults() *OBPv510UpdateConsumerRedirectURL200ResponseProperties`
+
+NewOBPv510UpdateConsumerRedirectURL200ResponsePropertiesWithDefaults instantiates a new OBPv510UpdateConsumerRedirectURL200ResponseProperties object
+This constructor will only assign default values to properties that have it defined,
+but it doesn't guarantee that properties required by API are set
+
+### GetCreatedByUserId
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetCreatedByUserId() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetCreatedByUserId returns the CreatedByUserId field if non-nil, zero value otherwise.
+
+### GetCreatedByUserIdOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetCreatedByUserIdOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetCreatedByUserIdOk returns a tuple with the CreatedByUserId field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetCreatedByUserId
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetCreatedByUserId(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetCreatedByUserId sets CreatedByUserId field to given value.
+
+
+### GetAppType
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetAppType() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetAppType returns the AppType field if non-nil, zero value otherwise.
+
+### GetAppTypeOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetAppTypeOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetAppTypeOk returns a tuple with the AppType field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetAppType
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetAppType(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetAppType sets AppType field to given value.
+
+
+### GetDescription
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetDescription() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetDescription returns the Description field if non-nil, zero value otherwise.
+
+### GetDescriptionOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetDescriptionOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetDescriptionOk returns a tuple with the Description field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetDescription
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetDescription(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetDescription sets Description field to given value.
+
+
+### GetCreatedByUser
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetCreatedByUser() OBPv510UpdateConsumerName200ResponsePropertiesCreatedByUser`
+
+GetCreatedByUser returns the CreatedByUser field if non-nil, zero value otherwise.
+
+### GetCreatedByUserOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetCreatedByUserOk() (*OBPv510UpdateConsumerName200ResponsePropertiesCreatedByUser, bool)`
+
+GetCreatedByUserOk returns a tuple with the CreatedByUser field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetCreatedByUser
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetCreatedByUser(v OBPv510UpdateConsumerName200ResponsePropertiesCreatedByUser)`
+
+SetCreatedByUser sets CreatedByUser field to given value.
+
+
+### GetEnabled
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetEnabled() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetEnabled returns the Enabled field if non-nil, zero value otherwise.
+
+### GetEnabledOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetEnabledOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetEnabledOk returns a tuple with the Enabled field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetEnabled
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetEnabled(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetEnabled sets Enabled field to given value.
+
+
+### GetRedirectUrl
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetRedirectUrl() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetRedirectUrl returns the RedirectUrl field if non-nil, zero value otherwise.
+
+### GetRedirectUrlOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetRedirectUrlOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetRedirectUrlOk returns a tuple with the RedirectUrl field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetRedirectUrl
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetRedirectUrl(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetRedirectUrl sets RedirectUrl field to given value.
+
+
+### GetDeveloperEmail
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetDeveloperEmail() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetDeveloperEmail returns the DeveloperEmail field if non-nil, zero value otherwise.
+
+### GetDeveloperEmailOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetDeveloperEmailOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetDeveloperEmailOk returns a tuple with the DeveloperEmail field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetDeveloperEmail
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetDeveloperEmail(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetDeveloperEmail sets DeveloperEmail field to given value.
+
+
+### GetConsumerId
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetConsumerId() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetConsumerId returns the ConsumerId field if non-nil, zero value otherwise.
+
+### GetConsumerIdOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetConsumerIdOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetConsumerIdOk returns a tuple with the ConsumerId field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetConsumerId
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetConsumerId(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetConsumerId sets ConsumerId field to given value.
+
+
+### GetAppName
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetAppName() OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName`
+
+GetAppName returns the AppName field if non-nil, zero value otherwise.
+
+### GetAppNameOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetAppNameOk() (*OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName, bool)`
+
+GetAppNameOk returns a tuple with the AppName field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetAppName
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetAppName(v OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName)`
+
+SetAppName sets AppName field to given value.
+
+
+### GetCreated
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetCreated() OBPv600UpdateRateLimitsRequestPropertiesFromDate`
+
+GetCreated returns the Created field if non-nil, zero value otherwise.
+
+### GetCreatedOk
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) GetCreatedOk() (*OBPv600UpdateRateLimitsRequestPropertiesFromDate, bool)`
+
+GetCreatedOk returns a tuple with the Created field if it's non-nil, zero value otherwise
+and a boolean to check if the value has been set.
+
+### SetCreated
+
+`func (o *OBPv510UpdateConsumerRedirectURL200ResponseProperties) SetCreated(v OBPv600UpdateRateLimitsRequestPropertiesFromDate)`
+
+SetCreated sets Created field to given value.
+
+
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

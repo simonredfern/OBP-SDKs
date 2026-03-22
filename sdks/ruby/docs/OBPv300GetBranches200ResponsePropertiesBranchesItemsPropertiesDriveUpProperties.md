@@ -1,0 +1,30 @@
+# OpenBankProject::OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpProperties
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+| **sunday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+| **tuesday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+| **wednesday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+| **monday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+| **friday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+| **thursday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+| **saturday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpPropertiesSunday.md) |  |  |
+
+## Example
+
+```ruby
+require 'obp_ruby'
+
+instance = OpenBankProject::OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesDriveUpProperties.new(
+  sunday: null,
+  tuesday: null,
+  wednesday: null,
+  monday: null,
+  friday: null,
+  thursday: null,
+  saturday: null
+)
+```
+

@@ -1,0 +1,32 @@
+# OBPv310UpdateAccountRequestProperties
+
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**account_routings** | [**OBPv310GetCheckbookOrders200ResponsePropertiesAccountPropertiesAccountRoutings**](OBPv310GetCheckbookOrders200ResponsePropertiesAccountPropertiesAccountRoutings.md) |  | 
+**branch_id** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**label** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**type** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+
+## Example
+
+```python
+from obp_python.models.obpv310_update_account_request_properties import OBPv310UpdateAccountRequestProperties
+
+# TODO update the JSON string below
+json = "{}"
+# create an instance of OBPv310UpdateAccountRequestProperties from a JSON string
+obpv310_update_account_request_properties_instance = OBPv310UpdateAccountRequestProperties.from_json(json)
+# print the JSON string representation of the object
+print(OBPv310UpdateAccountRequestProperties.to_json())
+
+# convert the object into a dict
+obpv310_update_account_request_properties_dict = obpv310_update_account_request_properties_instance.to_dict()
+# create an instance of OBPv310UpdateAccountRequestProperties from a dict
+obpv310_update_account_request_properties_from_dict = OBPv310UpdateAccountRequestProperties.from_dict(obpv310_update_account_request_properties_dict)
+```
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

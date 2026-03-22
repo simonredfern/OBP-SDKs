@@ -1,0 +1,20 @@
+# OpenBankProject::OBPv400UpdateAtmAccessibilityFeatures200Response
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+| **type** | **String** |  |  |
+| **properties** | [**OBPv400UpdateAtmAccessibilityFeatures200ResponseProperties**](OBPv400UpdateAtmAccessibilityFeatures200ResponseProperties.md) |  |  |
+
+## Example
+
+```ruby
+require 'obp_ruby'
+
+instance = OpenBankProject::OBPv400UpdateAtmAccessibilityFeatures200Response.new(
+  type: null,
+  properties: null
+)
+```
+

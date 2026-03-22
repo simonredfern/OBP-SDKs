@@ -1,0 +1,200 @@
+
+# OBPv500GetViewsForBankAccount200ResponsePropertiesViewsItemsProperties
+
+
+## Properties
+
+Name | Type
+------------ | -------------
+`canSeeTransactionStartDate` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddUrl` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddWhereTag` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionThisBankAccount` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canGrantAccessToViews` | [OBPv600GetActiveRateLimitsAtDate200ResponsePropertiesConsideredRateLimitIds](OBPv600GetActiveRateLimitsAtDate200ResponsePropertiesConsideredRateLimitIds.md)
+`canSeeBankAccountOwners` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankRoutingAddress` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeePrivateAlias` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canEditOwnerComment` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`isSystem` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountNationalIdentifier` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankRoutingScheme` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeePublicAlias` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeePhysicalLocation` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOwnerComment` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountIban` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeCorporateLocation` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountNumber` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountBankName` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`description` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountRoutingScheme` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionOtherBankAccount` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canDeleteCorporateLocation` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeComments` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountBankName` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddMoreInfo` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canCreateDirectDebit` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountNumber` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountSwiftBic` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddOpenCorporatesUrl` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountKind` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddTransactionRequestToOwnAccount` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canDeletePhysicalLocation` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountLabel` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionCurrency` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`isPublic` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionFinishDate` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountRoutingAddress` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddTag` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeImages` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canQueryAvailableFunds` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountCreditLimit` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountCurrency` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`hideMetadataIfAliasUsed` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canDeleteWhereTag` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`alias` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddImageUrl` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddComment` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeImageUrl` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`id` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canCreateStandingOrder` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountNationalIdentifier` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddCounterparty` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddTransactionRequestToAnyAccount` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canRevokeAccessToViews` | [OBPv600GetActiveRateLimitsAtDate200ResponsePropertiesConsideredRateLimitIds](OBPv600GetActiveRateLimitsAtDate200ResponsePropertiesConsideredRateLimitIds.md)
+`canSeeTags` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOpenCorporatesUrl` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`shortName` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canDeleteTag` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountRoutingScheme` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeMoreInfo` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionMetadata` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canDeleteComment` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeWhereTag` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddPrivateAlias` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddPublicAlias` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountSwiftBic` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddImage` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionType` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountRoutingAddress` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountIban` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddPhysicalLocation` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canAddCorporateLocation` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canDeleteImage` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeUrl` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountBalance` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherBankRoutingAddress` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionBalance` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`metadataView` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionAmount` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherAccountMetadata` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeBankAccountType` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeOtherBankRoutingScheme` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+`canSeeTransactionDescription` | [OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md)
+
+## Example
+
+```typescript
+import type { OBPv500GetViewsForBankAccount200ResponsePropertiesViewsItemsProperties } from 'obp-typescript'
+
+// TODO: Update the object below with actual values
+const example = {
+  "canSeeTransactionStartDate": null,
+  "canAddUrl": null,
+  "canAddWhereTag": null,
+  "canSeeTransactionThisBankAccount": null,
+  "canGrantAccessToViews": null,
+  "canSeeBankAccountOwners": null,
+  "canSeeBankRoutingAddress": null,
+  "canSeePrivateAlias": null,
+  "canEditOwnerComment": null,
+  "isSystem": null,
+  "canSeeOtherAccountNationalIdentifier": null,
+  "canSeeBankRoutingScheme": null,
+  "canSeePublicAlias": null,
+  "canSeePhysicalLocation": null,
+  "canSeeOwnerComment": null,
+  "canSeeBankAccountIban": null,
+  "canSeeCorporateLocation": null,
+  "canSeeBankAccountNumber": null,
+  "canSeeOtherAccountBankName": null,
+  "description": null,
+  "canSeeBankAccountRoutingScheme": null,
+  "canSeeTransactionOtherBankAccount": null,
+  "canDeleteCorporateLocation": null,
+  "canSeeComments": null,
+  "canSeeBankAccountBankName": null,
+  "canAddMoreInfo": null,
+  "canCreateDirectDebit": null,
+  "canSeeOtherAccountNumber": null,
+  "canSeeOtherAccountSwiftBic": null,
+  "canAddOpenCorporatesUrl": null,
+  "canSeeOtherAccountKind": null,
+  "canAddTransactionRequestToOwnAccount": null,
+  "canDeletePhysicalLocation": null,
+  "canSeeBankAccountLabel": null,
+  "canSeeTransactionCurrency": null,
+  "isPublic": null,
+  "canSeeTransactionFinishDate": null,
+  "canSeeBankAccountRoutingAddress": null,
+  "canAddTag": null,
+  "canSeeImages": null,
+  "canQueryAvailableFunds": null,
+  "canSeeBankAccountCreditLimit": null,
+  "canSeeBankAccountCurrency": null,
+  "hideMetadataIfAliasUsed": null,
+  "canDeleteWhereTag": null,
+  "alias": null,
+  "canAddImageUrl": null,
+  "canAddComment": null,
+  "canSeeImageUrl": null,
+  "id": null,
+  "canCreateStandingOrder": null,
+  "canSeeBankAccountNationalIdentifier": null,
+  "canAddCounterparty": null,
+  "canAddTransactionRequestToAnyAccount": null,
+  "canRevokeAccessToViews": null,
+  "canSeeTags": null,
+  "canSeeOpenCorporatesUrl": null,
+  "shortName": null,
+  "canDeleteTag": null,
+  "canSeeOtherAccountRoutingScheme": null,
+  "canSeeMoreInfo": null,
+  "canSeeTransactionMetadata": null,
+  "canDeleteComment": null,
+  "canSeeWhereTag": null,
+  "canAddPrivateAlias": null,
+  "canAddPublicAlias": null,
+  "canSeeBankAccountSwiftBic": null,
+  "canAddImage": null,
+  "canSeeTransactionType": null,
+  "canSeeOtherAccountRoutingAddress": null,
+  "canSeeOtherAccountIban": null,
+  "canAddPhysicalLocation": null,
+  "canAddCorporateLocation": null,
+  "canDeleteImage": null,
+  "canSeeUrl": null,
+  "canSeeBankAccountBalance": null,
+  "canSeeOtherBankRoutingAddress": null,
+  "canSeeTransactionBalance": null,
+  "metadataView": null,
+  "canSeeTransactionAmount": null,
+  "canSeeOtherAccountMetadata": null,
+  "canSeeBankAccountType": null,
+  "canSeeOtherBankRoutingScheme": null,
+  "canSeeTransactionDescription": null,
+} satisfies OBPv500GetViewsForBankAccount200ResponsePropertiesViewsItemsProperties
+
+console.log(example)
+
+// Convert the instance to a JSON string
+const exampleJSON: string = JSON.stringify(example)
+console.log(exampleJSON)
+
+// Parse the JSON string back to an object
+const exampleParsed = JSON.parse(exampleJSON) as OBPv500GetViewsForBankAccount200ResponsePropertiesViewsItemsProperties
+console.log(exampleParsed)
+```
+
+[[Back to top]](#) [[Back to API list]](../README.md#api-endpoints) [[Back to Model list]](../README.md#models) [[Back to README]](../README.md)
+
+

@@ -1,0 +1,12 @@
+# Obpv220GetMessageDocs200ResponsePropertiesMessageDocsItemsPropertiesRequiredFieldInfo
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**r#type** | **String** |  | 
+**properties** | [**models::Obpv220GetMessageDocs200ResponsePropertiesMessageDocsItemsPropertiesRequiredFieldInfoProperties**](OBPv220GetMessageDocs200ResponsePropertiesMessageDocsItemsPropertiesRequiredFieldInfoProperties.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

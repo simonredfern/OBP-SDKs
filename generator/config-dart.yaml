@@ -1,0 +1,8 @@
+generatorName: dart-dio
+outputDir: ../sdks/dart
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  pubName: obp_dart
+  pubVersion: "1.0.0"
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

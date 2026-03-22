@@ -1,0 +1,9 @@
+generatorName: ruby
+outputDir: ../sdks/ruby
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  gemName: obp_ruby
+  gemVersion: "1.0.0"
+  moduleName: OpenBankProject
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

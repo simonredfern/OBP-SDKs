@@ -1,0 +1,8 @@
+generatorName: swift6
+outputDir: ../sdks/swift
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  projectName: OBPSwift
+  podVersion: "1.0.0"
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

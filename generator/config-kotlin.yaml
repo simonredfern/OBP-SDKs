@@ -1,0 +1,10 @@
+generatorName: kotlin
+outputDir: ../sdks/kotlin
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  groupId: com.openbankproject
+  artifactId: obp-kotlin
+  artifactVersion: "1.0.0"
+  packageName: com.openbankproject
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

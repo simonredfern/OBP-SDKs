@@ -1,0 +1,6 @@
+# OpenAPI Generator ignore file
+# Lines matching these patterns will not be overwritten during regeneration.
+# Use this to preserve manual customizations (if any).
+
+# Example: keep a custom README
+# README.md

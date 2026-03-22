@@ -1,0 +1,20 @@
+# OpenBankProject::OBPv600RejectAccountAccessRequestRequest
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+| **type** | **String** |  |  |
+| **properties** | [**OBPv600RejectAccountAccessRequestRequestProperties**](OBPv600RejectAccountAccessRequestRequestProperties.md) |  |  |
+
+## Example
+
+```ruby
+require 'obp_ruby'
+
+instance = OpenBankProject::OBPv600RejectAccountAccessRequestRequest.new(
+  type: null,
+  properties: null
+)
+```
+

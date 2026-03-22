@@ -1,0 +1,10 @@
+generatorName: typescript-fetch
+outputDir: ../sdks/typescript
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  npmName: obp-typescript
+  npmVersion: "1.0.0"
+  supportsES6: true
+  typescriptThreePlus: true
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

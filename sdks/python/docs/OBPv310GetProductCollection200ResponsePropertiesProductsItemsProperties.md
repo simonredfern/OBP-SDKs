@@ -1,0 +1,40 @@
+# OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties
+
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**description** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**more_info_url** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**super_family** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**code** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**product_attributes** | [**OBPv400GetProduct200ResponsePropertiesAttributes**](OBPv400GetProduct200ResponsePropertiesAttributes.md) |  | 
+**bank_id** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**meta** | [**OBPv310GetProductTree200ResponsePropertiesParentProductPropertiesParentProductPropertiesMeta**](OBPv310GetProductTree200ResponsePropertiesParentProductPropertiesParentProductPropertiesMeta.md) |  | 
+**details** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**category** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**family** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**parent_product_code** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+
+## Example
+
+```python
+from obp_python.models.obpv310_get_product_collection200_response_properties_products_items_properties import OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties
+
+# TODO update the JSON string below
+json = "{}"
+# create an instance of OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties from a JSON string
+obpv310_get_product_collection200_response_properties_products_items_properties_instance = OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties.from_json(json)
+# print the JSON string representation of the object
+print(OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties.to_json())
+
+# convert the object into a dict
+obpv310_get_product_collection200_response_properties_products_items_properties_dict = obpv310_get_product_collection200_response_properties_products_items_properties_instance.to_dict()
+# create an instance of OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties from a dict
+obpv310_get_product_collection200_response_properties_products_items_properties_from_dict = OBPv310GetProductCollection200ResponsePropertiesProductsItemsProperties.from_dict(obpv310_get_product_collection200_response_properties_products_items_properties_dict)
+```
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

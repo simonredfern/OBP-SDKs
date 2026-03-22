@@ -1,0 +1,16 @@
+
+# OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyProperties
+
+## Properties
+| Name | Type | Description | Notes |
+| ------------ | ------------- | ------------- | ------------- |
+| **sunday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+| **tuesday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+| **wednesday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+| **monday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+| **friday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+| **thursday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+| **saturday** | [**OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday**](OBPv300GetBranches200ResponsePropertiesBranchesItemsPropertiesLobbyPropertiesSunday.md) |  |  |
+
+
+

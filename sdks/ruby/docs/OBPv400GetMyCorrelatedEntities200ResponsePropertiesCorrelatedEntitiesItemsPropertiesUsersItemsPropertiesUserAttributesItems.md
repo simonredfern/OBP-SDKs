@@ -1,0 +1,20 @@
+# OpenBankProject::OBPv400GetMyCorrelatedEntities200ResponsePropertiesCorrelatedEntitiesItemsPropertiesUsersItemsPropertiesUserAttributesItems
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+| **type** | **String** |  |  |
+| **properties** | [**OBPv400GetMyCorrelatedEntities200ResponsePropertiesCorrelatedEntitiesItemsPropertiesUsersItemsPropertiesUserAttributesItemsProperties**](OBPv400GetMyCorrelatedEntities200ResponsePropertiesCorrelatedEntitiesItemsPropertiesUsersItemsPropertiesUserAttributesItemsProperties.md) |  |  |
+
+## Example
+
+```ruby
+require 'obp_ruby'
+
+instance = OpenBankProject::OBPv400GetMyCorrelatedEntities200ResponsePropertiesCorrelatedEntitiesItemsPropertiesUsersItemsPropertiesUserAttributesItems.new(
+  type: null,
+  properties: null
+)
+```
+

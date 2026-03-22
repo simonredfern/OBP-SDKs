@@ -1,0 +1,9 @@
+generatorName: csharp
+outputDir: ../sdks/csharp
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  packageName: OpenBankProject
+  packageVersion: "1.0.0"
+  targetFramework: net8.0
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

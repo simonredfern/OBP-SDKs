@@ -1,0 +1,11 @@
+
+# OBPv510GetUserByProviderAndUsername200ResponsePropertiesAgreementsItems
+
+## Properties
+| Name | Type | Description | Notes |
+| ------------ | ------------- | ------------- | ------------- |
+| **type** | **kotlin.String** |  |  |
+| **properties** | [**OBPv510GetUserByProviderAndUsername200ResponsePropertiesAgreementsItemsProperties**](OBPv510GetUserByProviderAndUsername200ResponsePropertiesAgreementsItemsProperties.md) |  |  |
+
+
+

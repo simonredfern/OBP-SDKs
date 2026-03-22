@@ -1,0 +1,11 @@
+generatorName: scala-sttp4
+outputDir: ../sdks/scala
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  groupId: com.openbankproject
+  artifactId: obp-scala
+  artifactVersion: "1.0.0"
+  apiPackage: com.openbankproject.api
+  modelPackage: com.openbankproject.model
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

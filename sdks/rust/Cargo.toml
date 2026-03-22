@@ -1,0 +1,19 @@
+[package]
+name = "obp_rust"
+version = "1.0.0"
+authors = ["contact@tesobe.com"]
+description = "The Open Bank Project API v6.0.0 provides standardized banking APIs.  This specification was automatically generated from the OBP API codebase. Generated on: 2026-03-22T07:16:47.250257  For more information, visit: https://github.com/OpenBankProject/OBP-API"
+license = "AGPL v3"
+edition = "2021"
+
+[dependencies]
+serde = { version = "^1.0", features = ["derive"] }
+serde_json = "^1.0"
+serde_repr = "^0.1"
+url = "^2.5"
+reqwest = { version = "^0.13", default-features = false, features = ["json", "multipart", "query", "form"] }
+
+[features]
+default = ["native-tls"]
+native-tls = ["reqwest/native-tls"]
+rustls = ["reqwest/rustls"]

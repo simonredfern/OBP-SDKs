@@ -1,0 +1,11 @@
+
+# OBPv510GetBankAccountsBalances200ResponsePropertiesAccountsItemsPropertiesBalancesItems
+
+## Properties
+| Name | Type | Description | Notes |
+| ------------ | ------------- | ------------- | ------------- |
+| **type** | **kotlin.String** |  |  |
+| **properties** | [**OBPv510GetBankAccountsBalances200ResponsePropertiesAccountsItemsPropertiesBalancesItemsProperties**](OBPv510GetBankAccountsBalances200ResponsePropertiesAccountsItemsPropertiesBalancesItemsProperties.md) |  |  |
+
+
+

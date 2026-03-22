@@ -1,0 +1,9 @@
+generatorName: go
+outputDir: ../sdks/golang
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  packageName: obp
+  moduleName: github.com/OpenBankProject/OBP-SDKs/golang
+  packageVersion: "1.0.0"
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

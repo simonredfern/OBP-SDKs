@@ -1,0 +1,10 @@
+generatorName: python
+outputDir: ../sdks/python
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  packageName: obp_python
+  projectName: obp-python
+  packageVersion: "1.0.0"
+  packageUrl: https://github.com/OpenBankProject/OBP-SDKs
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

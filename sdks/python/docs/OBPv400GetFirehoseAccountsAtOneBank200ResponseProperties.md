@@ -1,0 +1,29 @@
+# OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties
+
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**accounts** | [**OBPv400GetFirehoseAccountsAtOneBank200ResponsePropertiesAccounts**](OBPv400GetFirehoseAccountsAtOneBank200ResponsePropertiesAccounts.md) |  | 
+
+## Example
+
+```python
+from obp_python.models.obpv400_get_firehose_accounts_at_one_bank200_response_properties import OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties
+
+# TODO update the JSON string below
+json = "{}"
+# create an instance of OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties from a JSON string
+obpv400_get_firehose_accounts_at_one_bank200_response_properties_instance = OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties.from_json(json)
+# print the JSON string representation of the object
+print(OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties.to_json())
+
+# convert the object into a dict
+obpv400_get_firehose_accounts_at_one_bank200_response_properties_dict = obpv400_get_firehose_accounts_at_one_bank200_response_properties_instance.to_dict()
+# create an instance of OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties from a dict
+obpv400_get_firehose_accounts_at_one_bank200_response_properties_from_dict = OBPv400GetFirehoseAccountsAtOneBank200ResponseProperties.from_dict(obpv400_get_firehose_accounts_at_one_bank200_response_properties_dict)
+```
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

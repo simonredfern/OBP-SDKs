@@ -1,0 +1,13 @@
+generatorName: java
+outputDir: ../sdks/java
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  groupId: com.openbankproject
+  artifactId: obp-java
+  artifactVersion: "1.0.0"
+  apiPackage: com.openbankproject.api
+  modelPackage: com.openbankproject.model
+  invokerPackage: com.openbankproject
+  library: native
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

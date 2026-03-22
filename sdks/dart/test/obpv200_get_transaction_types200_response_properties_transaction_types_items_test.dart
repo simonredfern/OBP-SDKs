@@ -1,0 +1,21 @@
+import 'package:test/test.dart';
+import 'package:obp_dart/obp_dart.dart';
+
+// tests for OBPv200GetTransactionTypes200ResponsePropertiesTransactionTypesItems
+void main() {
+  final instance = OBPv200GetTransactionTypes200ResponsePropertiesTransactionTypesItemsBuilder();
+  // TODO add properties to the builder and call build()
+
+  group(OBPv200GetTransactionTypes200ResponsePropertiesTransactionTypesItems, () {
+    // String type
+    test('to test the property `type`', () async {
+      // TODO
+    });
+
+    // OBPv200GetTransactionTypes200ResponsePropertiesTransactionTypesItemsProperties properties
+    test('to test the property `properties`', () async {
+      // TODO
+    });
+
+  });
+}

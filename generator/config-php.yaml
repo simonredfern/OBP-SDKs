@@ -1,0 +1,9 @@
+generatorName: php
+outputDir: ../sdks/php
+inputSpec: ../openapi-spec/obp-openapi.json
+additionalProperties:
+  packageName: obp-php
+  invokerPackage: OpenBankProject
+  artifactVersion: "1.0.0"
+  developerOrganization: TESOBE GmbH
+  licenseInfo: Apache-2.0

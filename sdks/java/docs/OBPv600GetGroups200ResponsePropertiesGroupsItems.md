@@ -1,0 +1,14 @@
+
+
+# OBPv600GetGroups200ResponsePropertiesGroupsItems
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**type** | **String** |  |  |
+|**properties** | [**OBPv600GetGroups200ResponsePropertiesGroupsItemsProperties**](OBPv600GetGroups200ResponsePropertiesGroupsItemsProperties.md) |  |  |
+
+
+

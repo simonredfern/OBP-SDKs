@@ -1,0 +1,10 @@
+# OBPv600GetConnectors200ResponseProperties
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**connectors** | [**OBPv600GetConnectors200ResponsePropertiesConnectors**](OBPv600GetConnectors200ResponsePropertiesConnectors.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

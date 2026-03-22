@@ -1,0 +1,11 @@
+# OpenBankProject.Model.OBPv400IbanChecker200ResponseProperties
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**IsValid** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**Details** | [**OBPv400IbanChecker200ResponsePropertiesDetails**](OBPv400IbanChecker200ResponsePropertiesDetails.md) |  | 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+

@@ -1,0 +1,20 @@
+# OpenBankProject::OBPv510GetRegulatedEntityById200ResponsePropertiesServices
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+| **type** | **String** |  |  |
+| **items** | [**OBPv510GetRegulatedEntityById200ResponsePropertiesServicesItems**](OBPv510GetRegulatedEntityById200ResponsePropertiesServicesItems.md) |  |  |
+
+## Example
+
+```ruby
+require 'obp_ruby'
+
+instance = OpenBankProject::OBPv510GetRegulatedEntityById200ResponsePropertiesServices.new(
+  type: null,
+  items: null
+)
+```
+

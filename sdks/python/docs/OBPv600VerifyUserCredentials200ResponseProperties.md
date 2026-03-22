@@ -1,0 +1,34 @@
+# OBPv600VerifyUserCredentials200ResponseProperties
+
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**provider** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**email** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**username** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**provider_id** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**user_id** | [**OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName**](OBPv400UpdateSystemLevelEndpointTagRequestPropertiesTagName.md) |  | 
+**entitlements** | [**OBPv510GetUserByProviderAndUsername200ResponsePropertiesEntitlements**](OBPv510GetUserByProviderAndUsername200ResponsePropertiesEntitlements.md) |  | 
+
+## Example
+
+```python
+from obp_python.models.obpv600_verify_user_credentials200_response_properties import OBPv600VerifyUserCredentials200ResponseProperties
+
+# TODO update the JSON string below
+json = "{}"
+# create an instance of OBPv600VerifyUserCredentials200ResponseProperties from a JSON string
+obpv600_verify_user_credentials200_response_properties_instance = OBPv600VerifyUserCredentials200ResponseProperties.from_json(json)
+# print the JSON string representation of the object
+print(OBPv600VerifyUserCredentials200ResponseProperties.to_json())
+
+# convert the object into a dict
+obpv600_verify_user_credentials200_response_properties_dict = obpv600_verify_user_credentials200_response_properties_instance.to_dict()
+# create an instance of OBPv600VerifyUserCredentials200ResponseProperties from a dict
+obpv600_verify_user_credentials200_response_properties_from_dict = OBPv600VerifyUserCredentials200ResponseProperties.from_dict(obpv600_verify_user_credentials200_response_properties_dict)
+```
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

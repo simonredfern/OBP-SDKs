@@ -1,0 +1,20 @@
+# OpenBankProject::OBPv400GetAllJsonSchemaValidationsPublic200ResponsePropertiesJsonSchemaValidations
+
+## Properties
+
+| Name | Type | Description | Notes |
+| ---- | ---- | ----------- | ----- |
+| **type** | **String** |  |  |
+| **items** | [**OBPv400GetAllJsonSchemaValidationsPublic200ResponsePropertiesJsonSchemaValidationsItems**](OBPv400GetAllJsonSchemaValidationsPublic200ResponsePropertiesJsonSchemaValidationsItems.md) |  |  |
+
+## Example
+
+```ruby
+require 'obp_ruby'
+
+instance = OpenBankProject::OBPv400GetAllJsonSchemaValidationsPublic200ResponsePropertiesJsonSchemaValidations.new(
+  type: null,
+  items: null
+)
+```
+

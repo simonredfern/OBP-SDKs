@@ -1,0 +1,12 @@
+# Obpv600GetCacheConfig200ResponsePropertiesRedisStatus
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**r#type** | **String** |  | 
+**properties** | [**models::Obpv600GetCacheConfig200ResponsePropertiesRedisStatusProperties**](OBPv600GetCacheConfig200ResponsePropertiesRedisStatusProperties.md) |  | 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
